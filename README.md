@@ -121,6 +121,7 @@ class ItikaDey:
 [![Portfolio](https://img.shields.io/badge/Portfolio-1a1a2e?style=for-the-badge&logo=githubpages&logoColor=e94560)](https://iti2845.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](www.linkedin.com/in/itika-dey-a32839276)
 [![GitHub](https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/Iti2845)
+[![Topmate](https://img.shields.io/badge/Digital%20Products-Topmate-e94560?style=for-the-badge)](https://topmate.io/iti_the_analy)
 [![Email](https://img.shields.io/badge/Email-1a1a2e?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:itika.dey063@email.com)
 
 </div>
