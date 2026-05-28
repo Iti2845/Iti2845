@@ -92,8 +92,8 @@ class ItikaDey:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Iti2845&show_icons=true&theme=nord&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1a2e&title_color=e94560&icon_color=e94560&text_color=a8b2d8"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iti2845&layout=compact&theme=nord&hide_border=true&bg_color=1a1a2e&title_color=e94560&text_color=a8b2d8"/>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iti2845&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/Iti2845)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Iti2845&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Iti2845)
 
 </div>
 
