@@ -92,8 +92,9 @@ class ItikaDey:
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iti2845&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/Iti2845)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Iti2845&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Iti2845)
+## 📊 GitHub Activity
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Iti2845&theme=tokyo-night&hide_border=true)](https://github.com/Iti2845)
 
 </div>
 
